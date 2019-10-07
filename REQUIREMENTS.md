@@ -75,7 +75,7 @@ least the following methods:
 
 -   the standard constructor and str methods
 -   add movie - add a single Movie object to the movies attribute
--   get number of required movies
+-   get number of unwatched movies
 -   get number of watched movies
 -   load movies (from csv file into Movie objects in the list)
 -   save movies (from movie list into csv file)
